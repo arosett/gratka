@@ -1,0 +1,12 @@
+{
+    "fixturesFolder": "E2E/cypress/fixtures",
+    "integrationFolder": "E2E/cypress/tests",
+    "pluginsFile": "E2E/cypress/plugins/index.js",
+    "screenshotsFolder": "E2E/cypress/screenshots",
+    "videosFolder": "E2E/cypress/videos",
+    "supportFile": "E2E/cypress/support/index.js",
+    "cy:run:chrome": "cypress run",
+    "env": {
+        "morizonGratkaUrl": "https://gratka.pl/nieruchomosci/mieszkanie-antoniki/ob/17028377"
+      }
+}
